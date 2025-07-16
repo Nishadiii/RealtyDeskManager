@@ -1,1 +1,2 @@
 # RealtyDeskManager
+A Java‑based desktop application built in NetBeans for a mid‑sized real‑estate firm. Implements full CRUD for properties, clients, and bookings with robust form validations, role‑based access, and printable reports. Uses clean OOP design (MVC, DAO, Singleton) and connects to a MySQL database administered via phpMyAdmin through JDBC. Ideal for showcasing second‑year mastery of Java, UI design, and database integration.
